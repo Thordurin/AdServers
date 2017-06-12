@@ -1,4 +1,9 @@
 #Spotify Ad Servers
+
+127.0.0.1  localhost
+::1  localhost
+
+#Server List
 127.0.0.1 adclick.g.doublecklick.net
 127.0.0.1 adeventtracker.spotify.com
 127.0.0.1 ads-fa.spotify.com
