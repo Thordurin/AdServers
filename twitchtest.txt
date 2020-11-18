@@ -1,0 +1,10 @@
+api.mixpanel.com
+spade.twitch.tv
+pubads.g.doubleclick.net
+sb.scorecardresearch.com
+video-weaver.sea01.his.ttvnw.net
+vaes.amazon-adsystem.com
+cdn-a.amazon-adsystem.com
+ad.doubleclick.net
+aax-us-east.amazon-adsystem.com
+s.amazon-adsystem.com
